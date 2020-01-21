@@ -1,7 +1,0 @@
-platform :ios, '8.4'
-use_frameworks!
-
-target 'example-objc' do
-  pod 'PAYJP'
-  # pod 'PAYJP', :path => '../'
-end

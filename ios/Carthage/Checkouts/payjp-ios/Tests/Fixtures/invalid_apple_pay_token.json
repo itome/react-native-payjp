@@ -1,9 +1,0 @@
-{
-  "error": {
-    "code": "invalid_apple_pay_token",
-    "message": "Invalid Apple Pay token.",
-    "param": "card",
-    "status": 400,
-    "type": "client_error"
-  }
-}
